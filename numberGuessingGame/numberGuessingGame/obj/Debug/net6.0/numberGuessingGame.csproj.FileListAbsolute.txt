@@ -1,0 +1,15 @@
+C:\Users\wajiz.pk\source\repos\numberGuessingGame\numberGuessingGame\bin\Debug\net6.0\numberGuessingGame.exe
+C:\Users\wajiz.pk\source\repos\numberGuessingGame\numberGuessingGame\bin\Debug\net6.0\numberGuessingGame.deps.json
+C:\Users\wajiz.pk\source\repos\numberGuessingGame\numberGuessingGame\bin\Debug\net6.0\numberGuessingGame.runtimeconfig.json
+C:\Users\wajiz.pk\source\repos\numberGuessingGame\numberGuessingGame\bin\Debug\net6.0\numberGuessingGame.dll
+C:\Users\wajiz.pk\source\repos\numberGuessingGame\numberGuessingGame\bin\Debug\net6.0\numberGuessingGame.pdb
+C:\Users\wajiz.pk\source\repos\numberGuessingGame\numberGuessingGame\obj\Debug\net6.0\numberGuessingGame.csproj.AssemblyReference.cache
+C:\Users\wajiz.pk\source\repos\numberGuessingGame\numberGuessingGame\obj\Debug\net6.0\numberGuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wajiz.pk\source\repos\numberGuessingGame\numberGuessingGame\obj\Debug\net6.0\numberGuessingGame.AssemblyInfoInputs.cache
+C:\Users\wajiz.pk\source\repos\numberGuessingGame\numberGuessingGame\obj\Debug\net6.0\numberGuessingGame.AssemblyInfo.cs
+C:\Users\wajiz.pk\source\repos\numberGuessingGame\numberGuessingGame\obj\Debug\net6.0\numberGuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\wajiz.pk\source\repos\numberGuessingGame\numberGuessingGame\obj\Debug\net6.0\numberGuessingGame.dll
+C:\Users\wajiz.pk\source\repos\numberGuessingGame\numberGuessingGame\obj\Debug\net6.0\refint\numberGuessingGame.dll
+C:\Users\wajiz.pk\source\repos\numberGuessingGame\numberGuessingGame\obj\Debug\net6.0\numberGuessingGame.pdb
+C:\Users\wajiz.pk\source\repos\numberGuessingGame\numberGuessingGame\obj\Debug\net6.0\numberGuessingGame.genruntimeconfig.cache
+C:\Users\wajiz.pk\source\repos\numberGuessingGame\numberGuessingGame\obj\Debug\net6.0\ref\numberGuessingGame.dll
